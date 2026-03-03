@@ -1,2 +1,2 @@
 # git215_setup
-assignment one
+## Author: Finnian Clark
